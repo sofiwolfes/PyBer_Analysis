@@ -11,13 +11,13 @@ What we are trying to achieve is to get the total fares, number of drivers and n
 
 As we can see on the image below, there is a consistency on higher fares on urban cities, followed by suburban cities and finally rural ones.
 
-![Alt text](https://github.com/sofiwolfes/PyBer_Analysis/blob/main/Challenge-Fig1.png)
+![Alt text](https://github.com/sofiwolfes/PyBer_Analysis/blob/main/Resources_Challenge/Challenge-Fig1.png)
 
 This makes sense given the data below. We can see that both the total number of drives and total drivers in urban cities is significantly higher than in the other two city types.
 
 This results in a higer total of fares even though the average fare per ride and average fare per driver is lower in the urban cities.
 
-![Alt text](https://github.com/sofiwolfes/PyBer_Analysis/blob/main/Challenge-Fig2.png)
+![Alt text](https://github.com/sofiwolfes/PyBer_Analysis/blob/main/Resources_Challenge/Challenge-Fig2.png
 
 ## Description of the differences in ride-sharing data among the different city types
 
