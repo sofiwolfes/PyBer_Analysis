@@ -9,7 +9,7 @@ What we are trying to achieve is to get the total fares, number of drivers and n
 
 ### Results:
 
-![Alt text]()
+![Alt text](https://github.com/sofiwolfes/PyBer_Analysis/blob/main/Fig1.png)
 
 ## Description of the differences in ride-sharing data among the different city types
 
