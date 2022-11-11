@@ -17,7 +17,7 @@ This makes sense given the data below. We can see that both the total number of 
 
 This results in a higer total of fares even though the average fare per ride and average fare per driver is lower in the urban cities.
 
-![Alt text](https://github.com/sofiwolfes/PyBer_Analysis/blob/main/Resources_Challenge/Challenge-Fig2.png
+![Alt text](https://github.com/sofiwolfes/PyBer_Analysis/blob/main/Resources_Challenge/Challenge-Fig2.png)
 
 ## Description of the differences in ride-sharing data among the different city types
 
