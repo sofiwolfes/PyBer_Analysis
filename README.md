@@ -9,6 +9,8 @@ What we are trying to achieve is to get the total fares, number of drivers and n
 
 ### Results:
 
+As we can see on the image below, there is a consistency on higher fares on urban cities, followed by suburban cities and finally rural ones.
+
 ![Alt text](https://github.com/sofiwolfes/PyBer_Analysis/blob/main/Fig1.png)
 
 ## Description of the differences in ride-sharing data among the different city types
